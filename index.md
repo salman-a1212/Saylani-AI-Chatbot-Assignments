@@ -19,7 +19,7 @@
       <div class="img-con">
         <h2>Summary</h2>
         <img
-          src="/img/116710669_306609923726360_4905840618815181741_n.png"
+          src="https://lh3.googleusercontent.com/pw/AM-JKLUv3DNYAngmoWgMUIGvvaLuPG1eib3wCP7tl-96qelAMuFIfeQ7NigpRw_ck-JP0xPDYzkeuggUo0x_WmxpMmY5PcWTW9h9w4JT83K8RvwTCbGRF8gicbMvO-bWflSpNWvbpZC0Rd3TPtYZMePm4Bd3=w433-h577-no?authuser=0"
           alt=""
           class="pic"
         />
