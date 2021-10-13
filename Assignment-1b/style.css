@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+}
+
+.text {
+  background-color: #232644;
+  margin: 50px;
+  padding: 50px;
+}
+
+.text p,
+h1 {
+  color: #fff;
+}
+
+.text h1 {
+  margin-top: 50px;
+  font-size: 3rem;
+}
+
+.pic {
+  width: 12%;
+}
+
+.img-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 50px;
+  border-bottom: 1px solid;
+  line-height: 1.5;
+}
+
+.summ-text {
+  margin: 50px;
+}
+
+.skill-sec {
+  margin: 50px;
+}
+
+.skill-sec h2 {
+  border-bottom: 1px solid;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.list {
+  padding: 0 50px;
+  margin: 0 25px;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  flex: 50%;
+}
+
+.exp-sec {
+  margin: 50px;
+}
+
+.exp-sec h2 {
+  border-bottom: 1px solid;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.edu-sec {
+  margin: 50px;
+}
+
+.edu-sec h2 {
+  border-bottom: 1px solid;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.cert-sec {
+  margin: 50px;
+}
+
+.cert-sec h2 {
+  border-bottom: 1px solid;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.text a {
+  color: #fff;
+  display: block;
+}
